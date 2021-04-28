@@ -1,0 +1,5 @@
+1-Pourquoi Elissa s'est enfuit de sa ville natale?;a-car sa mere l'a empoisonnee;b-car son frere l'a emprisonnee ;c-a cause de la secheresse;cr\b
+2-Qui a aide Elissa pour s'enfuir du prison?;a-Son epoux Sychee;b-La reine Didon;c-Son servant Theodore;cr\c
+3-En grec le nom d'Elissa est;a-Theiosso;b-Artemis;c-Aspasie;cr\a
+4-Les noms des freres et soeurs d'Elissa sont;a-Pygmalion et Anna;b-Artemis et Nicole;c-Julie et Sychee;cr\a
+5-Le mot 'Byrsa' fait reference a;a-la guerre;b-la peau du boeuf;c-la reine Didon;cr\b
